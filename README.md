@@ -23,6 +23,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/TjWhiteboy/leetcode-Problems/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0006-zigzag-conversion](https://github.com/TjWhiteboy/leetcode-Problems/tree/main/0006-zigzag-conversion/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
