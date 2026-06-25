@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0078-subsets](https://github.com/TjWhiteboy/leetcode-Problems/tree/main/0078-subsets/) | Medium |
 | [0135-candy](https://github.com/TjWhiteboy/leetcode-Problems/tree/main/0135-candy/) | Hard |
 | [0989-add-to-array-form-of-integer](https://github.com/TjWhiteboy/leetcode-Problems/tree/main/0989-add-to-array-form-of-integer/) | Easy |
+| [1695-maximum-erasure-value](https://github.com/TjWhiteboy/leetcode-Problems/tree/main/1695-maximum-erasure-value/) | Medium |
 | [1833-maximum-ice-cream-bars](https://github.com/TjWhiteboy/leetcode-Problems/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
@@ -28,6 +29,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/TjWhiteboy/leetcode-Problems/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0141-linked-list-cycle](https://github.com/TjWhiteboy/leetcode-Problems/tree/main/0141-linked-list-cycle/) | Easy |
+| [1695-maximum-erasure-value](https://github.com/TjWhiteboy/leetcode-Problems/tree/main/1695-maximum-erasure-value/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -40,6 +42,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/TjWhiteboy/leetcode-Problems/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [1695-maximum-erasure-value](https://github.com/TjWhiteboy/leetcode-Problems/tree/main/1695-maximum-erasure-value/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
