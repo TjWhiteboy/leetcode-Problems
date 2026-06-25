@@ -78,4 +78,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0989-add-to-array-form-of-integer](https://github.com/TjWhiteboy/leetcode-Problems/tree/main/0989-add-to-array-form-of-integer/) | Easy |
+| [1344-angle-between-hands-of-a-clock](https://github.com/TjWhiteboy/leetcode-Problems/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
 <!---LeetCode Topics End-->
