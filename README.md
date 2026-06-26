@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0051-n-queens](https://github.com/TjWhiteboy/leetcode-Problems/tree/main/0051-n-queens/) | Hard |
 | [0078-subsets](https://github.com/TjWhiteboy/leetcode-Problems/tree/main/0078-subsets/) | Medium |
 | [0135-candy](https://github.com/TjWhiteboy/leetcode-Problems/tree/main/0135-candy/) | Hard |
+| [0950-reveal-cards-in-increasing-order](https://github.com/TjWhiteboy/leetcode-Problems/tree/main/0950-reveal-cards-in-increasing-order/) | Medium |
 | [0989-add-to-array-form-of-integer](https://github.com/TjWhiteboy/leetcode-Problems/tree/main/0989-add-to-array-form-of-integer/) | Easy |
 | [1695-maximum-erasure-value](https://github.com/TjWhiteboy/leetcode-Problems/tree/main/1695-maximum-erasure-value/) | Medium |
 | [1833-maximum-ice-cream-bars](https://github.com/TjWhiteboy/leetcode-Problems/tree/main/1833-maximum-ice-cream-bars/) | Medium |
@@ -76,6 +77,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0950-reveal-cards-in-increasing-order](https://github.com/TjWhiteboy/leetcode-Problems/tree/main/0950-reveal-cards-in-increasing-order/) | Medium |
 | [1833-maximum-ice-cream-bars](https://github.com/TjWhiteboy/leetcode-Problems/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 ## Counting Sort
 | Problem Name | Difficulty |
@@ -91,10 +93,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/TjWhiteboy/leetcode-Problems/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0649-dota2-senate](https://github.com/TjWhiteboy/leetcode-Problems/tree/main/0649-dota2-senate/) | Medium |
+| [0950-reveal-cards-in-increasing-order](https://github.com/TjWhiteboy/leetcode-Problems/tree/main/0950-reveal-cards-in-increasing-order/) | Medium |
 | [2073-time-needed-to-buy-tickets](https://github.com/TjWhiteboy/leetcode-Problems/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0950-reveal-cards-in-increasing-order](https://github.com/TjWhiteboy/leetcode-Problems/tree/main/0950-reveal-cards-in-increasing-order/) | Medium |
 | [2073-time-needed-to-buy-tickets](https://github.com/TjWhiteboy/leetcode-Problems/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
 ## Design
 | Problem Name | Difficulty |
