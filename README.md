@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0989-add-to-array-form-of-integer](https://github.com/TjWhiteboy/leetcode-Problems/tree/main/0989-add-to-array-form-of-integer/) | Easy |
 | [1695-maximum-erasure-value](https://github.com/TjWhiteboy/leetcode-Problems/tree/main/1695-maximum-erasure-value/) | Medium |
 | [1833-maximum-ice-cream-bars](https://github.com/TjWhiteboy/leetcode-Problems/tree/main/1833-maximum-ice-cream-bars/) | Medium |
+| [2073-time-needed-to-buy-tickets](https://github.com/TjWhiteboy/leetcode-Problems/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -88,4 +89,9 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0649-dota2-senate](https://github.com/TjWhiteboy/leetcode-Problems/tree/main/0649-dota2-senate/) | Medium |
+| [2073-time-needed-to-buy-tickets](https://github.com/TjWhiteboy/leetcode-Problems/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2073-time-needed-to-buy-tickets](https://github.com/TjWhiteboy/leetcode-Problems/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
 <!---LeetCode Topics End-->
