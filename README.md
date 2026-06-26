@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0950-reveal-cards-in-increasing-order](https://github.com/TjWhiteboy/leetcode-Problems/tree/main/0950-reveal-cards-in-increasing-order/) | Medium |
 | [0989-add-to-array-form-of-integer](https://github.com/TjWhiteboy/leetcode-Problems/tree/main/0989-add-to-array-form-of-integer/) | Easy |
 | [1695-maximum-erasure-value](https://github.com/TjWhiteboy/leetcode-Problems/tree/main/1695-maximum-erasure-value/) | Medium |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/TjWhiteboy/leetcode-Problems/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/TjWhiteboy/leetcode-Problems/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [2073-time-needed-to-buy-tickets](https://github.com/TjWhiteboy/leetcode-Problems/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
 ## Backtracking
@@ -51,6 +52,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0020-valid-parentheses](https://github.com/TjWhiteboy/leetcode-Problems/tree/main/0020-valid-parentheses/) | Easy |
 | [0042-trapping-rain-water](https://github.com/TjWhiteboy/leetcode-Problems/tree/main/0042-trapping-rain-water/) | Hard |
 | [0232-implement-queue-using-stacks](https://github.com/TjWhiteboy/leetcode-Problems/tree/main/0232-implement-queue-using-stacks/) | Easy |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/TjWhiteboy/leetcode-Problems/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -94,11 +96,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0232-implement-queue-using-stacks](https://github.com/TjWhiteboy/leetcode-Problems/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0649-dota2-senate](https://github.com/TjWhiteboy/leetcode-Problems/tree/main/0649-dota2-senate/) | Medium |
 | [0950-reveal-cards-in-increasing-order](https://github.com/TjWhiteboy/leetcode-Problems/tree/main/0950-reveal-cards-in-increasing-order/) | Medium |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/TjWhiteboy/leetcode-Problems/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 | [2073-time-needed-to-buy-tickets](https://github.com/TjWhiteboy/leetcode-Problems/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0950-reveal-cards-in-increasing-order](https://github.com/TjWhiteboy/leetcode-Problems/tree/main/0950-reveal-cards-in-increasing-order/) | Medium |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/TjWhiteboy/leetcode-Problems/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 | [2073-time-needed-to-buy-tickets](https://github.com/TjWhiteboy/leetcode-Problems/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
 ## Design
 | Problem Name | Difficulty |
