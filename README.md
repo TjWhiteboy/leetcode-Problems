@@ -50,6 +50,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0038-count-and-say](https://github.com/TjWhiteboy/leetcode-Problems/tree/main/0038-count-and-say/) | Medium |
 | [0567-permutation-in-string](https://github.com/TjWhiteboy/leetcode-Problems/tree/main/0567-permutation-in-string/) | Medium |
 | [0649-dota2-senate](https://github.com/TjWhiteboy/leetcode-Problems/tree/main/0649-dota2-senate/) | Medium |
+| [0796-rotate-string](https://github.com/TjWhiteboy/leetcode-Problems/tree/main/0796-rotate-string/) | Easy |
 | [3838-weighted-word-mapping](https://github.com/TjWhiteboy/leetcode-Problems/tree/main/3838-weighted-word-mapping/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
@@ -132,4 +133,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2352-equal-row-and-column-pairs](https://github.com/TjWhiteboy/leetcode-Problems/tree/main/2352-equal-row-and-column-pairs/) | Medium |
+## String Matching
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0796-rotate-string](https://github.com/TjWhiteboy/leetcode-Problems/tree/main/0796-rotate-string/) | Easy |
 <!---LeetCode Topics End-->
