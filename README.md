@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0496-next-greater-element-i](https://github.com/TjWhiteboy/leetcode-Problems/tree/main/0496-next-greater-element-i/) | Easy |
 | [0735-asteroid-collision](https://github.com/TjWhiteboy/leetcode-Problems/tree/main/0735-asteroid-collision/) | Medium |
 | [0739-daily-temperatures](https://github.com/TjWhiteboy/leetcode-Problems/tree/main/0739-daily-temperatures/) | Medium |
+| [0922-sort-array-by-parity-ii](https://github.com/TjWhiteboy/leetcode-Problems/tree/main/0922-sort-array-by-parity-ii/) | Easy |
 | [0950-reveal-cards-in-increasing-order](https://github.com/TjWhiteboy/leetcode-Problems/tree/main/0950-reveal-cards-in-increasing-order/) | Medium |
 | [0989-add-to-array-form-of-integer](https://github.com/TjWhiteboy/leetcode-Problems/tree/main/0989-add-to-array-form-of-integer/) | Easy |
 | [1695-maximum-erasure-value](https://github.com/TjWhiteboy/leetcode-Problems/tree/main/1695-maximum-erasure-value/) | Medium |
@@ -74,6 +75,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0042-trapping-rain-water](https://github.com/TjWhiteboy/leetcode-Problems/tree/main/0042-trapping-rain-water/) | Hard |
 | [0141-linked-list-cycle](https://github.com/TjWhiteboy/leetcode-Problems/tree/main/0141-linked-list-cycle/) | Easy |
 | [0567-permutation-in-string](https://github.com/TjWhiteboy/leetcode-Problems/tree/main/0567-permutation-in-string/) | Medium |
+| [0922-sort-array-by-parity-ii](https://github.com/TjWhiteboy/leetcode-Problems/tree/main/0922-sort-array-by-parity-ii/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -97,6 +99,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0922-sort-array-by-parity-ii](https://github.com/TjWhiteboy/leetcode-Problems/tree/main/0922-sort-array-by-parity-ii/) | Easy |
 | [0950-reveal-cards-in-increasing-order](https://github.com/TjWhiteboy/leetcode-Problems/tree/main/0950-reveal-cards-in-increasing-order/) | Medium |
 | [1833-maximum-ice-cream-bars](https://github.com/TjWhiteboy/leetcode-Problems/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 ## Counting Sort
