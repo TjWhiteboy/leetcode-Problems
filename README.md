@@ -38,6 +38,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0003-longest-substring-without-repeating-characters](https://github.com/TjWhiteboy/leetcode-Problems/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0141-linked-list-cycle](https://github.com/TjWhiteboy/leetcode-Problems/tree/main/0141-linked-list-cycle/) | Easy |
 | [0496-next-greater-element-i](https://github.com/TjWhiteboy/leetcode-Problems/tree/main/0496-next-greater-element-i/) | Easy |
+| [0567-permutation-in-string](https://github.com/TjWhiteboy/leetcode-Problems/tree/main/0567-permutation-in-string/) | Medium |
 | [1695-maximum-erasure-value](https://github.com/TjWhiteboy/leetcode-Problems/tree/main/1695-maximum-erasure-value/) | Medium |
 | [2352-equal-row-and-column-pairs](https://github.com/TjWhiteboy/leetcode-Problems/tree/main/2352-equal-row-and-column-pairs/) | Medium |
 ## String
@@ -47,12 +48,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0006-zigzag-conversion](https://github.com/TjWhiteboy/leetcode-Problems/tree/main/0006-zigzag-conversion/) | Medium |
 | [0020-valid-parentheses](https://github.com/TjWhiteboy/leetcode-Problems/tree/main/0020-valid-parentheses/) | Easy |
 | [0038-count-and-say](https://github.com/TjWhiteboy/leetcode-Problems/tree/main/0038-count-and-say/) | Medium |
+| [0567-permutation-in-string](https://github.com/TjWhiteboy/leetcode-Problems/tree/main/0567-permutation-in-string/) | Medium |
 | [0649-dota2-senate](https://github.com/TjWhiteboy/leetcode-Problems/tree/main/0649-dota2-senate/) | Medium |
 | [3838-weighted-word-mapping](https://github.com/TjWhiteboy/leetcode-Problems/tree/main/3838-weighted-word-mapping/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/TjWhiteboy/leetcode-Problems/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0567-permutation-in-string](https://github.com/TjWhiteboy/leetcode-Problems/tree/main/0567-permutation-in-string/) | Medium |
 | [1695-maximum-erasure-value](https://github.com/TjWhiteboy/leetcode-Problems/tree/main/1695-maximum-erasure-value/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
@@ -69,6 +72,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/TjWhiteboy/leetcode-Problems/tree/main/0042-trapping-rain-water/) | Hard |
 | [0141-linked-list-cycle](https://github.com/TjWhiteboy/leetcode-Problems/tree/main/0141-linked-list-cycle/) | Easy |
+| [0567-permutation-in-string](https://github.com/TjWhiteboy/leetcode-Problems/tree/main/0567-permutation-in-string/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
