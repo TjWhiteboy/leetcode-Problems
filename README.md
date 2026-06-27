@@ -20,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/TjWhiteboy/leetcode-Problems/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/TjWhiteboy/leetcode-Problems/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [2073-time-needed-to-buy-tickets](https://github.com/TjWhiteboy/leetcode-Problems/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
+| [2352-equal-row-and-column-pairs](https://github.com/TjWhiteboy/leetcode-Problems/tree/main/2352-equal-row-and-column-pairs/) | Medium |
 | [3838-weighted-word-mapping](https://github.com/TjWhiteboy/leetcode-Problems/tree/main/3838-weighted-word-mapping/) | Easy |
 ## Backtracking
 | Problem Name | Difficulty |
@@ -38,6 +39,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0141-linked-list-cycle](https://github.com/TjWhiteboy/leetcode-Problems/tree/main/0141-linked-list-cycle/) | Easy |
 | [0496-next-greater-element-i](https://github.com/TjWhiteboy/leetcode-Problems/tree/main/0496-next-greater-element-i/) | Easy |
 | [1695-maximum-erasure-value](https://github.com/TjWhiteboy/leetcode-Problems/tree/main/1695-maximum-erasure-value/) | Medium |
+| [2352-equal-row-and-column-pairs](https://github.com/TjWhiteboy/leetcode-Problems/tree/main/2352-equal-row-and-column-pairs/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -116,9 +118,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0950-reveal-cards-in-increasing-order](https://github.com/TjWhiteboy/leetcode-Problems/tree/main/0950-reveal-cards-in-increasing-order/) | Medium |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/TjWhiteboy/leetcode-Problems/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 | [2073-time-needed-to-buy-tickets](https://github.com/TjWhiteboy/leetcode-Problems/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
+| [2352-equal-row-and-column-pairs](https://github.com/TjWhiteboy/leetcode-Problems/tree/main/2352-equal-row-and-column-pairs/) | Medium |
 | [3838-weighted-word-mapping](https://github.com/TjWhiteboy/leetcode-Problems/tree/main/3838-weighted-word-mapping/) | Easy |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/TjWhiteboy/leetcode-Problems/tree/main/0232-implement-queue-using-stacks/) | Easy |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2352-equal-row-and-column-pairs](https://github.com/TjWhiteboy/leetcode-Problems/tree/main/2352-equal-row-and-column-pairs/) | Medium |
 <!---LeetCode Topics End-->
