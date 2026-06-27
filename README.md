@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0078-subsets](https://github.com/TjWhiteboy/leetcode-Problems/tree/main/0078-subsets/) | Medium |
 | [0135-candy](https://github.com/TjWhiteboy/leetcode-Problems/tree/main/0135-candy/) | Hard |
 | [0735-asteroid-collision](https://github.com/TjWhiteboy/leetcode-Problems/tree/main/0735-asteroid-collision/) | Medium |
+| [0739-daily-temperatures](https://github.com/TjWhiteboy/leetcode-Problems/tree/main/0739-daily-temperatures/) | Medium |
 | [0950-reveal-cards-in-increasing-order](https://github.com/TjWhiteboy/leetcode-Problems/tree/main/0950-reveal-cards-in-increasing-order/) | Medium |
 | [0989-add-to-array-form-of-integer](https://github.com/TjWhiteboy/leetcode-Problems/tree/main/0989-add-to-array-form-of-integer/) | Easy |
 | [1695-maximum-erasure-value](https://github.com/TjWhiteboy/leetcode-Problems/tree/main/1695-maximum-erasure-value/) | Medium |
@@ -54,6 +55,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0042-trapping-rain-water](https://github.com/TjWhiteboy/leetcode-Problems/tree/main/0042-trapping-rain-water/) | Hard |
 | [0232-implement-queue-using-stacks](https://github.com/TjWhiteboy/leetcode-Problems/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0735-asteroid-collision](https://github.com/TjWhiteboy/leetcode-Problems/tree/main/0735-asteroid-collision/) | Medium |
+| [0739-daily-temperatures](https://github.com/TjWhiteboy/leetcode-Problems/tree/main/0739-daily-temperatures/) | Medium |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/TjWhiteboy/leetcode-Problems/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -68,6 +70,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/TjWhiteboy/leetcode-Problems/tree/main/0042-trapping-rain-water/) | Hard |
+| [0739-daily-temperatures](https://github.com/TjWhiteboy/leetcode-Problems/tree/main/0739-daily-temperatures/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
