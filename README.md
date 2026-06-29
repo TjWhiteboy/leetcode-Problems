@@ -49,6 +49,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0006-zigzag-conversion](https://github.com/TjWhiteboy/leetcode-Problems/tree/main/0006-zigzag-conversion/) | Medium |
 | [0020-valid-parentheses](https://github.com/TjWhiteboy/leetcode-Problems/tree/main/0020-valid-parentheses/) | Easy |
 | [0038-count-and-say](https://github.com/TjWhiteboy/leetcode-Problems/tree/main/0038-count-and-say/) | Medium |
+| [0125-valid-palindrome](https://github.com/TjWhiteboy/leetcode-Problems/tree/main/0125-valid-palindrome/) | Easy |
 | [0344-reverse-string](https://github.com/TjWhiteboy/leetcode-Problems/tree/main/0344-reverse-string/) | Easy |
 | [0567-permutation-in-string](https://github.com/TjWhiteboy/leetcode-Problems/tree/main/0567-permutation-in-string/) | Medium |
 | [0649-dota2-senate](https://github.com/TjWhiteboy/leetcode-Problems/tree/main/0649-dota2-senate/) | Medium |
@@ -74,6 +75,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/TjWhiteboy/leetcode-Problems/tree/main/0042-trapping-rain-water/) | Hard |
+| [0125-valid-palindrome](https://github.com/TjWhiteboy/leetcode-Problems/tree/main/0125-valid-palindrome/) | Easy |
 | [0141-linked-list-cycle](https://github.com/TjWhiteboy/leetcode-Problems/tree/main/0141-linked-list-cycle/) | Easy |
 | [0344-reverse-string](https://github.com/TjWhiteboy/leetcode-Problems/tree/main/0344-reverse-string/) | Easy |
 | [0567-permutation-in-string](https://github.com/TjWhiteboy/leetcode-Problems/tree/main/0567-permutation-in-string/) | Medium |
