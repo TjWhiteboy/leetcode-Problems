@@ -115,6 +115,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0400-nth-digit](https://github.com/TjWhiteboy/leetcode-Problems/tree/main/0400-nth-digit/) | Medium |
 | [0989-add-to-array-form-of-integer](https://github.com/TjWhiteboy/leetcode-Problems/tree/main/0989-add-to-array-form-of-integer/) | Easy |
 | [1344-angle-between-hands-of-a-clock](https://github.com/TjWhiteboy/leetcode-Problems/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
 ## Queue
@@ -146,4 +147,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0796-rotate-string](https://github.com/TjWhiteboy/leetcode-Problems/tree/main/0796-rotate-string/) | Easy |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0400-nth-digit](https://github.com/TjWhiteboy/leetcode-Problems/tree/main/0400-nth-digit/) | Medium |
 <!---LeetCode Topics End-->
