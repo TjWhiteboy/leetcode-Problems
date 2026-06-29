@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0051-n-queens](https://github.com/TjWhiteboy/leetcode-Problems/tree/main/0051-n-queens/) | Hard |
 | [0078-subsets](https://github.com/TjWhiteboy/leetcode-Problems/tree/main/0078-subsets/) | Medium |
 | [0135-candy](https://github.com/TjWhiteboy/leetcode-Problems/tree/main/0135-candy/) | Hard |
+| [0283-move-zeroes](https://github.com/TjWhiteboy/leetcode-Problems/tree/main/0283-move-zeroes/) | Easy |
 | [0496-next-greater-element-i](https://github.com/TjWhiteboy/leetcode-Problems/tree/main/0496-next-greater-element-i/) | Easy |
 | [0735-asteroid-collision](https://github.com/TjWhiteboy/leetcode-Problems/tree/main/0735-asteroid-collision/) | Medium |
 | [0739-daily-temperatures](https://github.com/TjWhiteboy/leetcode-Problems/tree/main/0739-daily-temperatures/) | Medium |
@@ -77,6 +78,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0042-trapping-rain-water](https://github.com/TjWhiteboy/leetcode-Problems/tree/main/0042-trapping-rain-water/) | Hard |
 | [0125-valid-palindrome](https://github.com/TjWhiteboy/leetcode-Problems/tree/main/0125-valid-palindrome/) | Easy |
 | [0141-linked-list-cycle](https://github.com/TjWhiteboy/leetcode-Problems/tree/main/0141-linked-list-cycle/) | Easy |
+| [0283-move-zeroes](https://github.com/TjWhiteboy/leetcode-Problems/tree/main/0283-move-zeroes/) | Easy |
 | [0344-reverse-string](https://github.com/TjWhiteboy/leetcode-Problems/tree/main/0344-reverse-string/) | Easy |
 | [0567-permutation-in-string](https://github.com/TjWhiteboy/leetcode-Problems/tree/main/0567-permutation-in-string/) | Medium |
 | [0922-sort-array-by-parity-ii](https://github.com/TjWhiteboy/leetcode-Problems/tree/main/0922-sort-array-by-parity-ii/) | Easy |
