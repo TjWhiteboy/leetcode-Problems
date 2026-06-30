@@ -151,4 +151,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0400-nth-digit](https://github.com/TjWhiteboy/leetcode-Problems/tree/main/0400-nth-digit/) | Medium |
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0182-duplicate-emails](https://github.com/TjWhiteboy/leetcode-Problems/tree/main/0182-duplicate-emails/) | Easy |
 <!---LeetCode Topics End-->
