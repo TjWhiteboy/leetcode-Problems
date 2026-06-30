@@ -155,5 +155,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0182-duplicate-emails](https://github.com/TjWhiteboy/leetcode-Problems/tree/main/0182-duplicate-emails/) | Easy |
+| [0586-customer-placing-the-largest-number-of-orders](https://github.com/TjWhiteboy/leetcode-Problems/tree/main/0586-customer-placing-the-largest-number-of-orders/) | Easy |
 | [0596-classes-with-at-least-5-students](https://github.com/TjWhiteboy/leetcode-Problems/tree/main/0596-classes-with-at-least-5-students/) | Easy |
 <!---LeetCode Topics End-->
