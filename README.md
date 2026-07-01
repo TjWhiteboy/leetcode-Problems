@@ -159,6 +159,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/TjWhiteboy/leetcode-Problems/tree/main/0586-customer-placing-the-largest-number-of-orders/) | Easy |
 | [0596-classes-with-at-least-5-students](https://github.com/TjWhiteboy/leetcode-Problems/tree/main/0596-classes-with-at-least-5-students/) | Easy |
 | [0610-triangle-judgement](https://github.com/TjWhiteboy/leetcode-Problems/tree/main/0610-triangle-judgement/) | Easy |
+| [1141-user-activity-for-the-past-30-days-i](https://github.com/TjWhiteboy/leetcode-Problems/tree/main/1141-user-activity-for-the-past-30-days-i/) | Easy |
 | [1148-article-views-i](https://github.com/TjWhiteboy/leetcode-Problems/tree/main/1148-article-views-i/) | Easy |
 | [1683-invalid-tweets](https://github.com/TjWhiteboy/leetcode-Problems/tree/main/1683-invalid-tweets/) | Easy |
 <!---LeetCode Topics End-->
