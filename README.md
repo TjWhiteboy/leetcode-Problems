@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/TjWhiteboy/leetcode-Problems/tree/main/0001-two-sum/) | Easy |
 | [0042-trapping-rain-water](https://github.com/TjWhiteboy/leetcode-Problems/tree/main/0042-trapping-rain-water/) | Hard |
 | [0046-permutations](https://github.com/TjWhiteboy/leetcode-Problems/tree/main/0046-permutations/) | Medium |
 | [0051-n-queens](https://github.com/TjWhiteboy/leetcode-Problems/tree/main/0051-n-queens/) | Hard |
@@ -37,6 +38,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/TjWhiteboy/leetcode-Problems/tree/main/0001-two-sum/) | Easy |
 | [0003-longest-substring-without-repeating-characters](https://github.com/TjWhiteboy/leetcode-Problems/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0141-linked-list-cycle](https://github.com/TjWhiteboy/leetcode-Problems/tree/main/0141-linked-list-cycle/) | Easy |
 | [0496-next-greater-element-i](https://github.com/TjWhiteboy/leetcode-Problems/tree/main/0496-next-greater-element-i/) | Easy |
