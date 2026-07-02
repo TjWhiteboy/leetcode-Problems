@@ -156,6 +156,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0175-combine-two-tables](https://github.com/TjWhiteboy/leetcode-Problems/tree/main/0175-combine-two-tables/) | Easy |
 | [0182-duplicate-emails](https://github.com/TjWhiteboy/leetcode-Problems/tree/main/0182-duplicate-emails/) | Easy |
 | [0584-find-customer-referee](https://github.com/TjWhiteboy/leetcode-Problems/tree/main/0584-find-customer-referee/) | Easy |
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/TjWhiteboy/leetcode-Problems/tree/main/0586-customer-placing-the-largest-number-of-orders/) | Easy |
