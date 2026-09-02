@@ -28,6 +28,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2073-time-needed-to-buy-tickets](https://github.com/TjWhiteboy/leetcode-Problems/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
 | [2352-equal-row-and-column-pairs](https://github.com/TjWhiteboy/leetcode-Problems/tree/main/2352-equal-row-and-column-pairs/) | Medium |
 | [3838-weighted-word-mapping](https://github.com/TjWhiteboy/leetcode-Problems/tree/main/3838-weighted-word-mapping/) | Easy |
+| [3875-construct-uniform-parity-array-i](https://github.com/TjWhiteboy/leetcode-Problems/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -127,6 +128,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0400-nth-digit](https://github.com/TjWhiteboy/leetcode-Problems/tree/main/0400-nth-digit/) | Medium |
 | [0989-add-to-array-form-of-integer](https://github.com/TjWhiteboy/leetcode-Problems/tree/main/0989-add-to-array-form-of-integer/) | Easy |
 | [1344-angle-between-hands-of-a-clock](https://github.com/TjWhiteboy/leetcode-Problems/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
+| [3875-construct-uniform-parity-array-i](https://github.com/TjWhiteboy/leetcode-Problems/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
