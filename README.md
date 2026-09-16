@@ -44,6 +44,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0001-two-sum](https://github.com/TjWhiteboy/leetcode-Problems/tree/main/0001-two-sum/) | Easy |
 | [0003-longest-substring-without-repeating-characters](https://github.com/TjWhiteboy/leetcode-Problems/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0013-roman-to-integer](https://github.com/TjWhiteboy/leetcode-Problems/tree/main/0013-roman-to-integer/) | Easy |
 | [0141-linked-list-cycle](https://github.com/TjWhiteboy/leetcode-Problems/tree/main/0141-linked-list-cycle/) | Easy |
 | [0496-next-greater-element-i](https://github.com/TjWhiteboy/leetcode-Problems/tree/main/0496-next-greater-element-i/) | Easy |
 | [0567-permutation-in-string](https://github.com/TjWhiteboy/leetcode-Problems/tree/main/0567-permutation-in-string/) | Medium |
@@ -54,6 +55,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/TjWhiteboy/leetcode-Problems/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0006-zigzag-conversion](https://github.com/TjWhiteboy/leetcode-Problems/tree/main/0006-zigzag-conversion/) | Medium |
+| [0013-roman-to-integer](https://github.com/TjWhiteboy/leetcode-Problems/tree/main/0013-roman-to-integer/) | Easy |
 | [0020-valid-parentheses](https://github.com/TjWhiteboy/leetcode-Problems/tree/main/0020-valid-parentheses/) | Easy |
 | [0038-count-and-say](https://github.com/TjWhiteboy/leetcode-Problems/tree/main/0038-count-and-say/) | Medium |
 | [0125-valid-palindrome](https://github.com/TjWhiteboy/leetcode-Problems/tree/main/0125-valid-palindrome/) | Easy |
@@ -125,6 +127,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0009-palindrome-number](https://github.com/TjWhiteboy/leetcode-Problems/tree/main/0009-palindrome-number/) | Easy |
+| [0013-roman-to-integer](https://github.com/TjWhiteboy/leetcode-Problems/tree/main/0013-roman-to-integer/) | Easy |
 | [0400-nth-digit](https://github.com/TjWhiteboy/leetcode-Problems/tree/main/0400-nth-digit/) | Medium |
 | [0989-add-to-array-form-of-integer](https://github.com/TjWhiteboy/leetcode-Problems/tree/main/0989-add-to-array-form-of-integer/) | Easy |
 | [1344-angle-between-hands-of-a-clock](https://github.com/TjWhiteboy/leetcode-Problems/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
