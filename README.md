@@ -131,6 +131,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0400-nth-digit](https://github.com/TjWhiteboy/leetcode-Problems/tree/main/0400-nth-digit/) | Medium |
 | [0989-add-to-array-form-of-integer](https://github.com/TjWhiteboy/leetcode-Problems/tree/main/0989-add-to-array-form-of-integer/) | Easy |
 | [1344-angle-between-hands-of-a-clock](https://github.com/TjWhiteboy/leetcode-Problems/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
+| [3870-count-commas-in-range](https://github.com/TjWhiteboy/leetcode-Problems/tree/main/3870-count-commas-in-range/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/TjWhiteboy/leetcode-Problems/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 ## Queue
 | Problem Name | Difficulty |
