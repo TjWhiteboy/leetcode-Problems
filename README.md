@@ -180,4 +180,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/TjWhiteboy/leetcode-Problems/tree/main/1141-user-activity-for-the-past-30-days-i/) | Easy |
 | [1148-article-views-i](https://github.com/TjWhiteboy/leetcode-Problems/tree/main/1148-article-views-i/) | Easy |
 | [1683-invalid-tweets](https://github.com/TjWhiteboy/leetcode-Problems/tree/main/1683-invalid-tweets/) | Easy |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0020-valid-parentheses](https://github.com/TjWhiteboy/leetcode-Problems/tree/main/0020-valid-parentheses/) | Easy |
 <!---LeetCode Topics End-->
